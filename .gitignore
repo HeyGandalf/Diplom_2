@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Allure results
+allure-results/
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings (если используешь)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints (если используешь)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# IDE
+.idea/
